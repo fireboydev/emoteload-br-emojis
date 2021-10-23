@@ -1,7 +1,9 @@
 ## EmoteLoad - Emojis
 ### EmoteLoad  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[[**ENTRAR**]](https://discord.com/oauth2/authorize?client_id=817408987426455592&scope=bot%20applications.commands&permissions=2147483647)
 
-[Página Inicial](https://fireboydev.github.io/Emoteload/)
+
+🏠 [**Voltar para a Página Inicial**](https://fireboydev.github.io/Emoteload/)
+
 
 - Pepo neutral | Código: 18580
  
