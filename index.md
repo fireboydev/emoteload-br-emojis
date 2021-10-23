@@ -44,3 +44,17 @@
 - Emoji  | Código:
  
 ![image]()
+
+
+**Use o comando `*add (código)` para adicionar um emoji em seu servidor.**
+
+
+🏠 [**Voltar para a Página Inicial**](https://fireboydev.github.io/Emoteload/)
+
+
+### Conheça a Equipe
+- Davizin128 (Fundador)
+- FIRE BOY (Tester & Dev)
+
+
+© Copyright EmoteLoad 2021. Todos os direitos reservados. [Discord](https://discord.gg/v6Srh9fr) • [Twitter](https://twitter.com/FIREBOYOFC) 
