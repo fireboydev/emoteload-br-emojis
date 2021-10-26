@@ -1,5 +1,5 @@
 ## EmoteLoad - Emojis PT-BR
-### EmoteLoad  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[[**CHANGE LANGUAGE**]](https://emotes.emoteload.ml/)
+### EmoteLoad  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ [[**CHANGE LANGUAGE**]](https://emoteload.ml)
 
 
 🏠 [**Voltar para a Página Inicial**](https://br.emoteload.ml/)
