@@ -38,7 +38,7 @@
 
 ### Conheça a Equipe
 - Davizin128 (Fundador)
-- FIRE BOY (Tester & Dev)
+- FIRE BOY (Fundador)
 
 
 © Copyright EmoteLoad 2021. Todos os direitos reservados. [Discord](https://discord.gg/v6Srh9fr) • [Twitter](https://twitter.com/FIREBOYOFC) 
