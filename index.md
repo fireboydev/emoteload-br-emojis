@@ -1,8 +1,8 @@
 ## EmoteLoad - Emojis PT-BR
-### EmoteLoad  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[[**CHANGE LANGUAGE**]](emotes.emoteload.ml)
+### EmoteLoad  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[[**CHANGE LANGUAGE**]](https://emotes.emoteload.ml/)
 
 
-🏠 [**Voltar para a Página Inicial**](https://fireboydev.github.io/Emoteload/)
+🏠 [**Voltar para a Página Inicial**](https://br.emoteload.ml/)
       
      
 **Use o comando `*add (código)` para adicionar um emoji em seu servidor.**
@@ -33,7 +33,7 @@
 [![image](https://media.discordapp.net/attachments/778380099753869336/897150952686116925/Cloud_connect.png)](https://www.youtube.com/channel/UC0Y7jw648rEq63SctkqL2_A)
    
   
-🏠 [**Voltar para a Página Inicial**](https://fireboydev.github.io/Emoteload/)
+🏠 [**Voltar para a Página Inicial**](https://br.emoteload.ml)
 
 
 ### Conheça a Equipe
