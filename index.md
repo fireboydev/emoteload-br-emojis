@@ -1,9 +1,16 @@
-## EmoteLoad - Emojis
-### EmoteLoad  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[[**ENTRAR**]](https://discord.com/oauth2/authorize?client_id=817408987426455592&scope=bot%20applications.commands&permissions=2147483647)
+## EmoteLoad - Emojis PT-BR
+### EmoteLoad  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[[**CHANGE LANGUAGE**]](emotes.emoteload.ml)
 
 
 🏠 [**Voltar para a Página Inicial**](https://fireboydev.github.io/Emoteload/)
-
+      
+     
+**Use o comando `*add (código)` para adicionar um emoji em seu servidor.**
+     
+     
+- Winning blob | Código: 63297
+ 
+![image](https://media.discordapp.net/attachments/851198408118894592/901087030245728286/winningblob.png)
 
 - Pepo neutral | Código: 18580
  
@@ -24,31 +31,8 @@
 - Cloud connect | Código: 56325
  
 [![image](https://media.discordapp.net/attachments/778380099753869336/897150952686116925/Cloud_connect.png)](https://www.youtube.com/channel/UC0Y7jw648rEq63SctkqL2_A)
-
-- Winning blob | Código: 63297
- 
-![image](https://media.discordapp.net/attachments/851198408118894592/901087030245728286/winningblob.png)
-
-- Emoji  | Código:
- 
-![image]()
-
-- Emoji  | Código:
- 
-![image]()
-
-- Emoji  | Código:
- 
-![image]()
-
-- Emoji  | Código:
- 
-![image]()
-
-
-**Use o comando `*add (código)` para adicionar um emoji em seu servidor.**
-
-
+   
+  
 🏠 [**Voltar para a Página Inicial**](https://fireboydev.github.io/Emoteload/)
 
 
